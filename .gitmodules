@@ -1,3 +1,3 @@
-[submodule "pybitcoin"]
-  path = bitcoin/bitcoin-address-gen/pybitcoin
-  url = https://github.com/blockstack/pybitcoin
+[submodule "bitcoin/bitcoin-address-gen/pybitcoin"]
+	path = bitcoin/bitcoin-address-gen/pybitcoin
+	url = https://github.com/blockstack/pybitcoin
